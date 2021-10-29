@@ -1,0 +1,9 @@
+student: kabore abdoul fataoh
+email: abdoulfataoh@gmail.com
+
+--
+file name:	 BF.txt
+file format:	 Comma Separated Value (CSV)
+file encoding:	 uf8-8	 	
+separator:	 tabulation
+
